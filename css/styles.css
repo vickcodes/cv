@@ -1,0 +1,392 @@
+body {
+  background-color: #EAF6F6;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+hr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 50px;
+  border-color: #66BFBF;
+}
+
+.hr-i {
+  position: relative;
+  top: 50px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  color: #3E8E7E;
+}
+
+.one-three-rem {
+  font-size: 1.3rem;
+}
+
+.one-five-rem {
+  font-size: 1.5rem;
+}
+
+.title-name {
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  color: #66BFBF;
+  position: relative;
+}
+
+.info {
+  position: relative;
+  left: 850px;
+  bottom: 230px;
+  margin-right: 10px;
+  width: 300px;
+  ;
+}
+
+.address {
+  margin-left: 125px;
+  position: relative;
+  bottom: 15px;
+  width: 300px;
+  
+}
+
+.propic {
+  position: relative;
+  display: block;
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 100px;
+}
+
+.objective {
+  position: relative;
+  bottom: 90px;
+  text-align: center;
+}
+
+.seek {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hr-ii {
+  position: relative;
+  bottom: 62px;
+}
+
+.pro-title {
+  margin-left: 30px;
+  position: relative;
+  bottom: 30px;
+}
+
+.cafu {
+  margin-left: 100px;
+  background-color: #A5BECC;
+  margin-right: 380px;
+}
+
+.position-cafu {
+  position: relative;
+  top: 20px;
+  margin-left: 150px;
+}
+
+.cafu-respos {
+  position: relative;
+  bottom: 50px;
+  margin: 100px;
+}
+
+.list {
+  font-size: 1.1rem;
+  margin: 15px;
+}
+
+.cafu-hr {
+  position: relative;
+  bottom: 50px;
+}
+
+.blc {
+  margin-left: 100px;
+  background-color: #A5BECC;
+  margin-right: 150px;
+}
+
+.position-blc {
+  position: relative;
+  top: 20px;
+  margin-left: 150px;
+}
+
+.blcii {
+  margin-left: 100px;
+  background-color: #A5BECC;
+  margin-right: 80px;
+}
+
+.bbac {
+  margin-left: 100px;
+  background-color: #A5BECC;
+  margin-right: 330px;
+}
+
+.gk {
+  margin-left: 100px;
+  margin-right: 150px;
+  background-color: #A5BECC;
+}
+
+.private-tutor {
+  margin-left: 100px;
+  margin-right: 500px;
+  background-color: #A5BECC;
+}
+
+.pt-hr {
+  position: relative;
+  top: 60px;
+}
+
+.AB-title {
+  position: relative;
+  top: 100px;
+  margin-left: 30px;
+}
+
+.uni {
+  margin-left: 100px;
+  position: relative;
+  top: 120px;
+}
+
+.uni-degree {
+  margin-left: 150px;
+  position: relative;
+  top: 130px;
+}
+
+.skl {
+  margin-left: 100px;
+  position: relative;
+  top: 150px;
+}
+
+.skl-degree {
+  margin-left: 150px;
+  position: relative;
+  top: 165px;
+}
+
+.after-edu {
+  position: relative;
+  top: 210px;
+}
+
+.lang-title {
+  margin-left: 30px;
+  position: relative;
+  top: 250px;
+}
+
+.languages {
+  margin-left: 150px;
+  position: relative;
+  top: 250px;
+  background-color: #BDF2D5;
+  width: 600px;
+  padding: 10px;
+}
+
+.after-langs {
+  position: relative;
+  top: 350px;
+}
+
+.comp-know-title {
+  margin-left: 30px;
+  position: relative;
+  top: 400px;
+}
+
+.comp-apps {
+  margin-left: 150px;
+  position: relative;
+  top: 430px;
+  width: 400px;
+  background-color: #BDF2D5;
+  padding: 10px;
+}
+
+.after-CK {
+  position: relative;
+  top: 500px;
+}
+
+.certifs {
+  margin-left: 30px;
+  position: relative;
+  top: 500px;
+}
+
+.four-cerfs {
+  position: relative;
+  top: 500px;
+  margin-left: 100px;
+}
+
+.after-cerfs {
+  position: relative;
+  top: 550px;
+}
+
+.hs-title {
+  margin-left: 30px;
+  position: relative;
+  top: 600px;
+}
+
+.scout-h {
+  margin-left: 100px;
+  position: relative;
+  top: 600px;
+}
+
+.scouting-img {
+  position: relative;
+  left: 150px;
+  width: 180px;
+}
+
+.scouting-info {
+  position: relative;
+  bottom: 150px;
+  right: 200px;
+  margin-left: 50%;
+  margin-right: 50%;
+  width: 500px;
+}
+
+.yoga-img {
+  width: 180px;
+  position: absolute;
+  right: 350px;
+}
+
+.aerobics {
+  position: relative;
+  left: 400px;
+  top: 70px;
+  width: 100px;
+  margin-right: 50%;
+}
+
+.swim-img {
+  width: 180px;
+  position: relative;
+  left: 150px;
+  top: 170px;
+}
+
+.swimming {
+  position: relative;
+  left: 450px;
+  top: 35px;
+  width: 100px;
+}
+
+.last-hr {
+  position: relative;
+  top: 800px;
+}
+
+.contact-me {
+  position: relative;
+  top: 800px;
+}
+
+.outro-h {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.outro-hh {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  top: 900px;
+  height: 200px;
+}
+
+.footer-link {
+  position: relative;
+  top: 60px;
+  color: #11999E;
+  margin: 50px;
+  left: 580px;
+}
+
+.copy-right {
+  position: relative;
+  top: 80px;
+  left: 575px;
+  width: 300px;
+}
+
+.btn {
+  position: relative;
+  top: 850px;
+  left: 575px;
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
